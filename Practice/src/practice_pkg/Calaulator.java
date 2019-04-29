@@ -18,5 +18,19 @@ public class Calaulator
 		int c= a-b;
 		System.out.println("Valus of subtraction is :"+ c);
 	}
+	
+	public int add1(int a, int b)
+	{
+		int c= a+b;
+		return c;
+	}
+	
+	
+
+	public static void add2(int a, int b) {
+		int c=a+b;
+		System.out.println("Valus from static method: " +c);
+		
+	}
 
 }
