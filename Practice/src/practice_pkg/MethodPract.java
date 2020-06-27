@@ -22,7 +22,7 @@ public class MethodPract {
 
 		//Static method from Calaulator class calling without creating object
 		
-		Calaulator.add2(5, 7);
+		Calaulator.add2(8, 7);
 		
 
 
